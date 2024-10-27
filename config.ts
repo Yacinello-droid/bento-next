@@ -119,7 +119,7 @@ export const config: Config = {
     ],
     // Second buttons group
     // You muse use the 'buttons' layout to use this group.
-    [
+    buttons: [
       {
         name: 'Music',
         icon: 'fab-spotify',
