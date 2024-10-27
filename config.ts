@@ -106,6 +106,31 @@ export const config: Config = {
         icon: 'fab-github', // provide a FontAwesome icon name. Regular icons (fa-) don't require a prefix, while FA-Brands icons must be prefixed with "fab-"
         url: 'https://github.com/', // provide a link to the page.
       },
+      {
+        name: 'Template',
+        icon: 'link',
+        url: 'https://template.com'
+      },
+      {
+        name: 'Template',
+        icon: 'link',
+        url: 'https://template.com'
+      },
+      {
+        name: 'Template',
+        icon: 'link',
+        url: 'https://template.com'
+      },
+      {
+        name: 'Template',
+        icon: 'link',
+        url: 'https://template.com'
+      },
+      {
+        name: 'Template',
+        icon: 'link',
+        url: 'https://template.com'
+      },
     ],
     // Second buttons group
     // You muse use the 'buttons' layout to use this group.
