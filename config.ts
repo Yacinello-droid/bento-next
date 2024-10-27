@@ -28,7 +28,7 @@ export const config: Config = {
   },
 
   // Theme
-  theme: 'catppuccin-mocha',
+  theme: 'catppuccin-frappe',
 
   // Place a background image in ./src/assets/images/ and provide the file name.
   // Alternatively, provide a URL to an image. If the page is served over https, you may have issues loading images from insecure origins.
@@ -49,8 +49,8 @@ export const config: Config = {
   ],
 
   // Search Bar
-  searchBar: true,
-  searchEngine: 'google', // google, ddg
+  searchBar: false,
+  searchEngine: 'ddg', // google, ddg
   barPlaceholder: '', // if blank, use search engine name. Set to ' ' for no placeholder.
   autoFocusBar: true,
 
@@ -226,23 +226,23 @@ export const config: Config = {
         ],
       },
       {
-        icon: 'fab-github',
+        icon: 'reddit',
         links: [
           {
-            name: 'Front',
-            url: 'https://www.reddit.com/r/Frontend/',
+            name: 'CommandLine',
+            url: 'https://www.reddit.com/r/commandline/',
           },
           {
-            name: 'Rust',
-            url: 'https://www.reddit.com/r/rust/',
+            name: 'FeminineBoys',
+            url: 'https://www.reddit.com/r/feminineboys/',
           },
           {
-            name: 'Go',
-            url: 'https://www.reddit.com/r/golang/',
+            name: 'Unixporn',
+            url: 'https://www.reddit.com/r/unixporn/',
           },
           {
-            name: 'Repos',
-            url: 'https://github.com/migueravila',
+            name: 'Minecraft',
+            url: 'https://github.com/r/minecraft',
           },
         ],
       },
