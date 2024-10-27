@@ -108,28 +108,13 @@ export const config: Config = {
       },
       {
         name: 'Youtube',
-        icon: 'youtube',
+        icon: 'fab-youtube',
         url: 'https://youtube.com'
       },
       {
         name: 'MCUtils',
         icon: 'gears',
         url: 'https://mcutils.com'
-      },
-      {
-        name: 'Template',
-        icon: 'link',
-        url: 'https://template.com'
-      },
-      {
-        name: 'Template',
-        icon: 'link',
-        url: 'https://template.com'
-      },
-      {
-        name: 'Template',
-        icon: 'link',
-        url: 'https://template.com'
       },
     ],
     // Second buttons group
@@ -198,20 +183,20 @@ export const config: Config = {
         icon: 'coffee',
         links: [
           {
-            name: 'Linkedin',
-            url: 'https://www.linkedin.com',
+            name: 'Pinterest',
+            url: 'https://en.pinterest.com',
           },
           {
-            name: 'Dribbble',
-            url: 'https://www.dribbble.com',
+            name: 'Twitch',
+            url: 'https://twitch.com',
           },
           {
-            name: 'Trello',
-            url: 'https://www.trello.com',
+            name: 'Disord',
+            url: 'https://discord.com',
           },
           {
-            name: 'Slack',
-            url: 'https://www.slack.com',
+            name: 'Minehut',
+            url: 'https://minehut.com',
           },
         ],
       },
