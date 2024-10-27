@@ -106,31 +106,6 @@ export const config: Config = {
         icon: 'fab-github', // provide a FontAwesome icon name. Regular icons (fa-) don't require a prefix, while FA-Brands icons must be prefixed with "fab-"
         url: 'https://github.com/', // provide a link to the page.
       },
-      {
-        name: 'Mail',
-        icon: 'envelope',
-        url: 'https://mail.protonmail.com/',
-      },
-      {
-        name: 'Todoist',
-        icon: 'list-ol',
-        url: 'https://todoist.com',
-      },
-      {
-        name: 'Calendar',
-        icon: 'calendar',
-        url: 'https://calendar.google.com/calendar/r',
-      },
-      {
-        name: 'Reddit',
-        icon: 'fab-reddit',
-        url: 'https://reddit.com',
-      },
-      {
-        name: 'Odysee',
-        icon: 'fab-youtube',
-        url: 'https://odysee.com/',
-      },
     ],
     // Second buttons group
     // You muse use the 'buttons' layout to use this group.
