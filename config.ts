@@ -11,24 +11,24 @@ import { Config } from './src/types/config';
 // Use an editor with Typescript support to get autocomplete and validity checking!
 export const config: Config = {
   // General
-  name: 'John',
-  openInNewTab: true,
-  title: 'Bento',
+  name: 'Slava',
+  openInNewTab: false,
+  title: 'New Tab',
 
   // Clock
-  twelveHourFormat: false,
-  flashSeparator: false,
+  twelveHourFormat: true,
+  flashSeparator: true,
 
   // Font Family
   font: {
     // 'google' or 'local'
-    source: 'google',
+    source: 'local',
     // Font name, e.g. 'Roboto' (case sensitive)
-    name: 'Overpass',
+    name: 'CaskaydiaCode',
   },
 
   // Theme
-  theme: 'bento',
+  theme: 'catpuccin-mocha',
 
   // Place a background image in ./src/assets/images/ and provide the file name.
   // Alternatively, provide a URL to an image. If the page is served over https, you may have issues loading images from insecure origins.
