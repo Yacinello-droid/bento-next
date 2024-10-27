@@ -104,17 +104,17 @@ export const config: Config = {
       {
         name: 'Github', // set the name of the card
         icon: 'fab-github', // provide a FontAwesome icon name. Regular icons (fa-) don't require a prefix, while FA-Brands icons must be prefixed with "fab-"
-        url: 'https://github.com/', // provide a link to the page.
+        url: 'https://github.com/yacinello-droid', // provide a link to the page.
       },
       {
-        name: 'Template',
-        icon: 'link',
-        url: 'https://template.com'
+        name: 'Youtube',
+        icon: 'youtube',
+        url: 'https://youtube.com'
       },
       {
-        name: 'Template',
-        icon: 'link',
-        url: 'https://template.com'
+        name: 'MCUtils',
+        icon: 'gears',
+        url: 'https://mcutils.com'
       },
       {
         name: 'Template',
