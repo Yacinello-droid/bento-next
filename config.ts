@@ -226,7 +226,7 @@ export const config: Config = {
         ],
       },
       {
-        icon: 'reddit',
+        icon: 'fab-reddit',
         links: [
           {
             name: 'CommandLine',
