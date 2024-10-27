@@ -50,9 +50,9 @@ export const config: Config = {
 
   // Search Bar
   searchBar: false,
-  searchEngine: 'ddg', // google, ddg
+  searchEngine: '', // google, ddg
   barPlaceholder: '', // if blank, use search engine name. Set to ' ' for no placeholder.
-  autoFocusBar: true,
+  autoFocusBar: false,
 
   // Greetings
   greetingMorning: 'Good morning,',
